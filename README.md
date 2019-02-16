@@ -4,7 +4,7 @@ A collection of crime data analysis in Jupyter Notebooks.
 
 ## Background
 
-An organization known as the [Murder Accountability Project](http://www.murderdata.org/p/about.html) aggregated homicide data from government sources for better tracking and analysis. The data may be downloaded from [this link](www.murderdata.org/p/data-docs.html). The aggregated data was used in all of the Jupyter Notebooks. Economic and geographic data was sourced from the [Golden Oak Research Group](https://www.kaggle.com/goldenoakresearch/us-household-income-stats-geo-locations).
+An organization known as the [Murder Accountability Project](http://www.murderdata.org/p/about.html) aggregated homicide data from government sources for better tracking and analysis. The data may be downloaded from (http://www.murderdata.org/p/data-docs.html)[this link]. The aggregated data was used in all of the Jupyter Notebooks. Economic and geographic data was sourced from the [Golden Oak Research Group](https://www.kaggle.com/goldenoakresearch/us-household-income-stats-geo-locations).
 
 
 ## Data Description
