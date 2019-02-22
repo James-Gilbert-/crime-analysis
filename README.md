@@ -1,6 +1,6 @@
 # Crime Analysis with Machine Learning
 
-A collection of crime data analysis in Jupyter Notebooks.
+Crime data analysis using ML models in scikit-learn with Jupyter.
 
 ## Background
 
